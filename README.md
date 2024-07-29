@@ -17,7 +17,8 @@ Hola! mi nombre es Cesar Ocegueda, entusiasta de comenzar mi carrera profesional
 ### :hammer_and_wrench: Herramientas :
 <div id="header" align="left">
   
-   [![My Skills](https://skillicons.dev/icons?i=py,postman,
+ [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)]()
+ [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)]()
 
 </div>
 
